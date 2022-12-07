@@ -243,6 +243,7 @@ view: sales_order_item {
   }
 
   dimension: item_id {
+    primary_key: yes
     type: number
     sql: ${TABLE}.item_id ;;
   }
