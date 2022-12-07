@@ -1,7 +1,8 @@
-connection: "@{CONNECTION_NAME}"
+connection: "team_datalizards"
 
-include: "/explores/*.explore.lkml"
-include: "/dashboards/*.dashboard.lookml"
+include: "/views/**/*.view"
+#include: "/explores/*.explore.lkml"
+#include: "/dashboards/*.dashboard.lookml"
 
 
 datagroup: data_lizards_default_datagroup {
