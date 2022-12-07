@@ -1,0 +1,18 @@
+{
+    "label": "Magento",
+    "category_label": "Models",
+    "branding": {
+      "image_uri": "https://marketplace-api.looker.com/block-icons/shopify.png",
+      "tagline": "Magento(Adobe Commerce) is a flexible e-commerce platform. It has both community and enterprise editions. "
+    },
+  
+    "constants": {
+      "CONNECTION_NAME": {
+        "label": "Connection Name",
+        "value_constraint": "connection"
+      },
+      "SCHEMA_NAME": {
+        "label": "Schema Name"
+      }
+    }
+  }
