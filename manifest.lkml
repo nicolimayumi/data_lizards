@@ -7,7 +7,7 @@ constant: CONNECTION_NAME {
   export: override_required
 }
 
-constant: SCHEMA_NAME {
+constant: SCHEMA_NAME { 
   value: "mmqdfmwbcb"
   export: override_optional
 }
