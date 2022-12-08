@@ -1,7 +1,7 @@
 connection: "team_datalizards"
 
 include: "/views/**/*.view"
-#include: "/explores/*.explore.lkml"
+include: "/explores/*.lkml"
 #include: "/dashboards/*.dashboard.lookml"
 
 
