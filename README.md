@@ -6,9 +6,10 @@ Magento 2(Adobe Commerce) is one of the top e-commerce platforms. This block hel
 
 ### Sales Insights
 
-- Total sales
-- Total sales by store
-- Top Seller products
+Sales Insights
+ - Total sales
+ - Total sales by store
+ - Top seller products 
 
 # Installation
 
