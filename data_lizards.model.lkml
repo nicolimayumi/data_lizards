@@ -2,7 +2,7 @@ connection: "team_datalizards"
 
 include: "/views/**/*.view"
 include: "/explores/*.lkml"
-#include: "/dashboards/*.dashboard.lookml"
+include: "/dashboards/*.lookml"
 
 
 datagroup: data_lizards_default_datagroup {
